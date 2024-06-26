@@ -34,6 +34,8 @@ To save the new medication, press the check mark at the top. To cancel the regis
 
 From the main Medications page, the user (Pharmacist) can add a medication.
 
+<br><img src="imges/image_15.png" width="425"/> <img src="imges/image_16.png" width="425"/><br>
+
 
 
 
