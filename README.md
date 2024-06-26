@@ -39,7 +39,7 @@ From the main Medications page, the user (Pharmacist) can add a medication.
 
 When the pharmacist wants to view a particular medication, this is the interface they get:
 
-<br><img src="imges/image_19.)png" width="425"/> 
+<br><img src="imges/image_19.png" width="425"/> 
 
 
 
