@@ -14,13 +14,13 @@ An Android application designed to prepare medication solutions with specific ca
 <br><img src="imges/image_04.jpg" width="425"/> <img src="imges/image_05.jpg" width="425"/><br>
 
 4. If the user presses the button to add a new client, the Add Client (Patient) page opens, and they can fill in the client's information. Additionally, if they want to add a photo from the phone's (tablet's) storage or take a photo of the client on the spot using the camera, they just need to press the camera icon.
-<br><img src="imges/image_06.jpg" width="425"/> <img src="imges/image_07.jpg" width="425"/><br>
+<br><img src="imges/image_06.png" width="425"/> <img src="imges/image_07.png" width="425"/><br>
 To save the new patient, press the check mark at the top. To cancel the registration, press the back button to return to the previous page.
 
 5. And if the user presses on a client, the page for that patient opens and contains additional information about the patient. From this page, the user can also modify or delete the client, as well as call or send a message to the client through the phone line.
-<br><img src="imges/image_08.jpg" width="425"/> <img src="imges/image_09.jpg" width="425"/><br>
-<br><img src="imges/image_10.jpg" width="425"/> <br>
-<br><img src="imges/image_11.jpg" width="425"/> <img src="imges/image_12.jpg" width="425"/><br>
+<br><img src="imges/image_08.png" width="425"/> <img src="imges/image_09.png" width="425"/><br>
+<br><img src="imges/image_10.png" width="425"/> <br>
+<br><img src="imges/image_11.png" width="425"/> <img src="imges/image_12.png" width="425"/><br>
 
 6. The same applies to the Medications page with a few small changes.
 
