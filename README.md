@@ -30,7 +30,7 @@ If the user presses the button to add a new medication, the Add Medication page 
 
 To save the new medication, press the check mark at the top. To cancel the registration, press the back button to return to the previous page.
 
-<br><img src="imges/image_13.jpg" width="425"/> <img src="imges/image_14.jpg" width="425"/><br>
+<br><img src="imges/image_13.png" width="425"/> <img src="imges/image_14.png" width="425"/><br>
 
 From the main Medications page, the user (Pharmacist) can add a medication.
 
