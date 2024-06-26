@@ -21,6 +21,7 @@ To save the new patient, press the check mark at the top. To cancel the registra
 <br><img src="imges/image_08.png" width="425"/> <img src="imges/image_09.png" width="425"/><br>
 <br><img src="imges/image_10.png" width="425"/> <br>
 <br><img src="imges/image_11.png" width="425"/> <img src="imges/image_12.png" width="425"/><br>
+<br><img src="imges/image_13.png" width="425"/><br>
 
 6. The same applies to the Medications page with a few small changes.
 
@@ -30,15 +31,15 @@ If the user presses the button to add a new medication, the Add Medication page 
 
 To save the new medication, press the check mark at the top. To cancel the registration, press the back button to return to the previous page.
 
-<br><img src="imges/image_13.png" width="425"/> <img src="imges/image_14.png" width="425"/><br>
+<br><img src="imges/image_14.png" width="425"/> <img src="imges/image_15.png" width="425"/><br>
 
 From the main Medications page, the user (Pharmacist) can add a medication.
 
-<br><img src="imges/image_15.png" width="425"/> <img src="imges/image_16.png" width="425"/><br>
+<br><img src="imges/image_16.png" width="425"/> <img src="imges/image_17.png" width="425"/><br>
 
 When the pharmacist wants to view a particular medication, this is the interface they get:
 
-<br><img src="imges/image_17.png" width="425"/> 
+<br><img src="imges/image_18.png" width="425"/> 
 
 
 
