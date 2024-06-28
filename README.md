@@ -106,4 +106,28 @@ No updates are made.
 
 <br><img src="imges/image_24.png" width="425"/> <img src="imges/image_25.png" width="425"/><br>
 
+If the stability of a residual medication is exceeded, the pharmacist can delete it.
 
+Here’s how this process can be incorporated:
+
+1. Residuals Database Monitoring: The system monitors the stability dates of the residual medications in the database.
+
+2. Stability Check: When the pharmacist views the residuals, the system highlights or flags those whose stability period has been exceeded.
+
+3. Delete Option: For residuals with exceeded stability:
+
+* The pharmacist selects the residual medication that has exceeded its stability.
+* The pharmacist clicks on the Delete option to remove it from the residuals database.
+4. Confirmation: The system prompts the pharmacist to confirm the deletion to avoid accidental removal.
+
+5. Update Database: Upon confirmation, the residual medication is deleted from the database, ensuring that expired or unstable medications are not used.
+
+Here’s a step-by-step example:
+
+1. Access Residuals: The pharmacist accesses the residuals database.
+2. Identify Expired Residuals: The system flags residuals whose stability has been exceeded.
+3. Select and Delete: The pharmacist selects an expired residual (e.g., from medication M1) and clicks Delete.
+4. Confirm Deletion: A confirmation prompt appears to ensure the pharmacist wants to proceed.
+5. Update Database: After confirmation, the residual is removed from the database.
+
+<br><img src="imges/image_26.png" width="425"/> <img src="imges/image_27.png" width="425"/><br>
