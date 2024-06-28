@@ -48,7 +48,7 @@ On this interface, the pharmacist will have the following options:
 * Modify the Medication: The pharmacist can edit the information of the medication.
 * Delete the Medication: The pharmacist can delete the medication from the list.
 
-  <br><img src="imges/image_18.png" width="425"/> <img src="imges/image_19.jpg" width="425"/><br>
+  <br><img src="imges/image_20.png" width="425"/> <img src="imges/image_21.png" width="425"/><br>
 
 
 
