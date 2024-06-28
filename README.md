@@ -50,7 +50,28 @@ On this interface, the pharmacist will have the following options:
 
   <br><img src="imges/image_20.png" width="425"/> <img src="imges/image_21.png" width="425"/><br>
 
+Let's now move to the Calculations page. This section is designed to calculate the dose to administer, the final volume, the number of vials, the most suitable bag type, and the leftover amount. The pharmacist can retrieve the medication information from the database and complete the data entry (Body Surface Area, Dosage), and then press Calculate.
 
+Here's a breakdown of the process:
+
+Calculations Page: The pharmacist navigates to the Calculations page.
+
+Retrieve Medication Information: The pharmacist selects a medication from the database to pre-fill the relevant information.
+
+Data Entry: The pharmacist completes the data entry fields:
+
+Body Surface Area: Enter the patient's body surface area.
+Dosage: Enter the prescribed dosage.
+Calculate: The pharmacist presses the Calculate button to compute the necessary information, which includes:
+
+Dose to Administer: The amount of medication required.
+Final Volume: The total volume of the solution.
+Number of Vials: The number of vials needed for the dose.
+Most Suitable Bag Type: The type of bag most appropriate for the solution.
+Leftover Amount: Any remaining amount of the medication.
+
+
+<br><img src="imges/image_22.png" width="425"/> <img src="imges/image_23.png" width="425"/><br>
 
 
 
