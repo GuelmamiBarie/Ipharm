@@ -73,5 +73,37 @@ Leftover Amount: Any remaining amount of the medication.
 
 <br><img src="imges/image_22.png" width="425"/> <img src="imges/image_23.png" width="425"/><br>
 
+In this step, if the required number of vials is available in stock and everything is correct, the pharmacist can either validate or cancel the calculations. If they validate the calculations, the leftover amount is recorded in the residuals database with the exact date it was stored, and the stock quantity of this medication is decreased. (In this example, we are using the medication M1.)
+
+Here is a detailed breakdown of the process:
+
+Stock Verification: The system checks if the required number of vials of medication M1 is available in stock.
+
+Validation/Cancel Options:
+
+Validate: If the pharmacist validates the calculations:
+The leftover amount is saved in the residuals database with the current date.
+The stock quantity of medication M1 is decreased accordingly.
+Cancel: If the pharmacist cancels, no changes are made to the stock or the residuals database.
+Process Workflow:
+
+The pharmacist retrieves medication M1 from the database.
+The pharmacist enters the patient's Body Surface Area and Dosage.
+The pharmacist presses the Calculate button.
+The system computes the necessary information:
+Dose to Administer
+Final Volume
+Number of Vials
+Most Suitable Bag Type
+Leftover Amount
+The system verifies the availability of medication M1 in stock.
+If the stock is sufficient, the pharmacist has the option to Validate or Cancel.
+On Validation:
+The leftover amount is recorded with the current date in the residuals database.
+The stock quantity of medication M1 is updated.
+On Cancellation:
+No updates are made.
+
+<br><img src="imges/image_24.png" width="425"/> <img src="imges/image_25.png" width="425"/><br>
 
 
