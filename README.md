@@ -41,6 +41,14 @@ When the pharmacist wants to view a particular medication, this is the interface
 
 <br><img src="imges/image_19.png" width="425"/> 
 
+On this interface, the pharmacist will have the following options:
+
+* Call the Manufacturer: The pharmacist can call the laboratory that manufactures the medication.
+* Send a Message: The pharmacist can send a message to the manufacturer through the phone line.
+* Modify the Medication: The pharmacist can edit the information of the medication.
+* Delete the Medication: The pharmacist can delete the medication from the list.
+
+  <br><img src="imges/image_18.png" width="425"/> <img src="imges/image_19.png" width="425"/><br>
 
 
 
