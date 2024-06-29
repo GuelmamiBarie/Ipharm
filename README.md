@@ -116,8 +116,9 @@ Here’s how this process can be incorporated:
 
 3. Delete Option: For residuals with exceeded stability:
 
-* The pharmacist selects the residual medication that has exceeded its stability.
-* The pharmacist clicks on the Delete option to remove it from the residuals database.
+   * The pharmacist selects the residual medication that has exceeded its stability.
+   * The pharmacist clicks on the Delete option to remove it from the residuals database.
+   
 4. Confirmation: The system prompts the pharmacist to confirm the deletion to avoid accidental removal.
 
 5. Update Database: Upon confirmation, the residual medication is deleted from the database, ensuring that expired or unstable medications are not used.
