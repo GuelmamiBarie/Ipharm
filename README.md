@@ -3,7 +3,7 @@ An Android application designed to prepare medication solutions with specific ca
 
 ##Presentation of the Activities (Interfaces) of the Application
 1. On the first launch of the application, the initial interface displays a message that says "Hello". This message moves upwards after a moment with a splash animation and then shows the application's home page. The home page contains the name of the application and four icons. It allows users to view the list of patients, the list of medications, calculate, and see the list of remnants.
-<br><img src="imges/image_01.png" width="425"/> <img src="imges/image_02.png" width="425"/>
+<br><img src="imges/image_01.png" width="200" height="400"/> <img src="imges/image_02.png" width="200" height="400"/>
 
 2. At the beginning of each workday, display a reminder and ask the pharmacist to check the list of medications for those that are expired and those that are not.
 
