@@ -3,15 +3,15 @@ An Android application designed to prepare medication solutions with specific ca
 
 ##Presentation of the Activities (Interfaces) of the Application
 1. On the first launch of the application, the initial interface displays a message that says "Hello". This message moves upwards after a moment with a splash animation and then shows the application's home page. The home page contains the name of the application and four icons. It allows users to view the list of patients, the list of medications, calculate, and see the list of remnants.
-<br><img src="imges/image_01.png" width="200" height="400" align="center"/> <img src="imges/image_02.png" width="200" height="400" align="center"/>
+<br><img src="imges/image_01.png" width="200" height="400"/> <img src="imges/image_02.png" width="200" height="400"/>
 
 2. At the beginning of each workday, display a reminder and ask the pharmacist to check the list of medications for those that are expired and those that are not.
 
-   <br><img src="imges/image_03.jpg" width="425"/><br>
+   <br><img src="imges/image_03.jpg" width="200" height="400"/><br>
    If the pharmacist clicks on 'Verify', the page containing the list of remaining medications should be displayed, and if they click on 'No, Thank You', the reminder will disappear, and the homepage will be displayed.
 
 3. It offers users (Pharmacists) 4 choices: View Patients, View Medications, View Remaining Medications, and Perform Calculations. We start on the Patients page. When the user clicks on the 'Patients' icon, the Patients page opens, and for the first time, the list of patients will be empty. From this page, the user can add a new client by clicking the add button at the bottom right of the page or searching for a client via the search bar at the top of the page.
-<br><img src="imges/image_04.jpg" width="425"/> <img src="imges/image_05.jpg" width="425"/><br>
+<br><img src="imges/image_04.jpg" width="200" height="400"/> <img src="imges/image_05.jpg" width="200" height="400"/><br>
 
 4. If the user presses the button to add a new client, the Add Client (Patient) page opens, and they can fill in the client's information. Additionally, if they want to add a photo from the phone's (tablet's) storage or take a photo of the client on the spot using the camera, they just need to press the camera icon.
 <br><img src="imges/image_06.png" width="425"/> <img src="imges/image_07.png" width="425"/><br>
