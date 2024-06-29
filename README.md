@@ -14,14 +14,14 @@ An Android application designed to prepare medication solutions with specific ca
 <br><img src="imges/image_04.jpg" width="200" height="400"/> <img src="imges/image_05.jpg" width="200" height="400"/><br>
 
 4. If the user presses the button to add a new client, the Add Client (Patient) page opens, and they can fill in the client's information. Additionally, if they want to add a photo from the phone's (tablet's) storage or take a photo of the client on the spot using the camera, they just need to press the camera icon.
-<br><img src="imges/image_06.png" width="425"/> <img src="imges/image_07.png" width="425"/><br>
+<br><img src="imges/image_06.png" width="200" height="400"/> <img src="imges/image_07.png" width="200" height="400"/><br>
 To save the new patient, press the check mark at the top. To cancel the registration, press the back button to return to the previous page.
 
 5. And if the user presses on a client, the page for that patient opens and contains additional information about the patient. From this page, the user can also modify or delete the client, as well as call or send a message to the client through the phone line.
-<br><img src="imges/image_08.png" width="425"/> <img src="imges/image_09.png" width="425"/><br>
-<br><img src="imges/image_10.png" width="425"/> <br>
-<br><img src="imges/image_11.png" width="425"/> <img src="imges/image_12.png" width="425"/><br>
-<br><img src="imges/image_13.png" width="425"/><br>
+<br><img src="imges/image_08.png" width="200" height="400"/> <img src="imges/image_09.png" width="200" height="400"/><br>
+<br><img src="imges/image_10.png" width="200" height="400"/> <br>
+<br><img src="imges/image_11.png" width="200" height="400"/> <img src="imges/image_12.png" width="200" height="400"/><br>
+<br><img src="imges/image_13.png" width="200" height="400"/><br>
 
 6. The same applies to the Medications page with a few small changes.
 
@@ -31,15 +31,15 @@ If the user presses the button to add a new medication, the Add Medication page 
 
 To save the new medication, press the check mark at the top. To cancel the registration, press the back button to return to the previous page.
 
-<br><img src="imges/image_14.png" width="425"/> <img src="imges/image_15.png" width="425"/><br>
+<br><img src="imges/image_14.png" width="200" height="400"/> <img src="imges/image_15.png" width="200" height="400"/><br>
 
 From the main Medications page, the user (Pharmacist) can add a medication.
 
-<br><img src="imges/image_16.png" width="425"/> <img src="imges/image_17.png" width="425"/><br>
+<br><img src="imges/image_16.png" width="200" height="400"/> <img src="imges/image_17.png" width="200" height="400"/><br>
 
 When the pharmacist wants to view a particular medication, this is the interface they get:
 
-<br><img src="imges/image_19.png" width="425"/> 
+<br><img src="imges/image_19.png" width="200" height="400"/> 
 
 On this interface, the pharmacist will have the following options:
 
@@ -48,7 +48,7 @@ On this interface, the pharmacist will have the following options:
 * Modify the Medication: The pharmacist can edit the information of the medication.
 * Delete the Medication: The pharmacist can delete the medication from the list.
 
-  <br><img src="imges/image_20.png" width="425"/> <img src="imges/image_21.png" width="425"/><br>
+  <br><img src="imges/image_20.png" width="200" height="400"/> <img src="imges/image_21.png" width="200" height="400"/><br>
 
 * Let's now move to the Calculations page. This section is designed to calculate the dose to administer, the final volume, the number of vials, the most suitable bag type, and the leftover amount. The pharmacist can retrieve the medication information from the database and complete the data entry (Body Surface Area, Dosage), and then press Calculate.
 
@@ -71,7 +71,7 @@ Here's a breakdown of the process:
 * Leftover Amount: Any remaining amount of the medication.
 
 
-<br><img src="imges/image_22.png" width="425"/> <img src="imges/image_23.png" width="425"/><br>
+<br><img src="imges/image_22.png" width="200" height="400"/> <img src="imges/image_23.png" width="200" height="400"/><br>
 
 In this step, if the required number of vials is available in stock and everything is correct, the pharmacist can either validate or cancel the calculations. If they validate the calculations, the leftover amount is recorded in the residuals database with the exact date it was stored, and the stock quantity of this medication is decreased. (In this example, we are using the medication M1.)
 
@@ -104,7 +104,7 @@ The stock quantity of medication M1 is updated.
 On Cancellation:
 No updates are made.
 
-<br><img src="imges/image_24.png" width="425"/> <img src="imges/image_25.png" width="425"/><br>
+<br><img src="imges/image_24.png" width="200" height="400"/> <img src="imges/image_25.png" width="200" height="400"/><br>
 
 If the stability of a residual medication is exceeded, the pharmacist can delete it.
 
@@ -130,4 +130,4 @@ Here’s a step-by-step example:
 4. Confirm Deletion: A confirmation prompt appears to ensure the pharmacist wants to proceed.
 5. Update Database: After confirmation, the residual is removed from the database.
 
-<br><img src="imges/image_26.png" width="425"/> <img src="imges/image_27.png" width="425"/><br>
+<br><img src="imges/image_26.png" width="200" height="400"/> <img src="imges/image_27.png" width="200" height="400"/><br>
